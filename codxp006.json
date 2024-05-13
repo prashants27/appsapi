@@ -1,5 +1,5 @@
 {
-"ads_interstitial_count_show":4,
+"ads_interstitial_count_show":3,
 "ads_fb_native_bnr_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 "ads_app_id":"ca-app-pub-3940256099942544~3347511713",
 "ads_fb_interstitial_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -15,7 +15,7 @@
 "ads_native_preload":"Yes",
 "ads_native_view_id":1,
 "qureka_onoff":false,
-"ads_loader_onoff":true,
+"ads_loader_onoff":false,
 "ads_splash":"AppOpen",
 "ads_fb_native_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 "ads_interstitial_count":5, 
