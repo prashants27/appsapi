@@ -13,7 +13,7 @@
 "ads_app_open_id":"ca-app-pub-8664819712477231/1911138349", 
 "ads_app_up_date_link":"https://play.google.com/store/apps/details?id=com.snptubeapp.mtube.fastvideodownloader.easytubemate.snaptubee.videomusicdownloaderapp",
 "ads_native_preload":"Yes",
-"ads_native_view_id":1,
+"ads_native_view_id":2,
 "qureka_onoff":false,
 "ads_loader_onoff":true,
 "ads_splash":"AppOpen",
@@ -23,5 +23,5 @@
 "ads_app_up_date":"No",
 "ads_interstitial_back_count_show":100,
 "ads_interstitial_back_count":1000,
-"ads_native_color":"Yes"
+"ads_native_color":"No"
 }
