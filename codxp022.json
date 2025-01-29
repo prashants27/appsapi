@@ -17,7 +17,7 @@
 "ads_native_view_id":2,
 "qureka_onoff":true,
 "reward_onoff":false,
-"ads_loader_onoff":false,
+"ads_loader_onoff":true,
 "ads_splash":"AppOpen",
 "ads_fb_native_id":"537421232681148_537425086014096",
 "ads_interstitial_count":2, 
