@@ -21,12 +21,12 @@
 "ads_splash":"AppOpen",
 "ads_fb_native_id":"537421232681148_537425086014096------------",
 "ads_interstitial_count":2, 
-"ads_native_id":"ca-app-pub-8664819712477231/7195553641---------",
+"ads_native_id":"ca-app-pub-8664819712477231/7195553641",
 "ads_app_up_date":"No",
 "ads_update_version":"6",
 "ads_interstitial_back_count_show":100,
 "ads_interstitial_back_count":1000,
 "ads_native_color":"Yes",
 "rate_dialog":true,
-"all_ads_off": false 
+"all_ads_off": true
 }
