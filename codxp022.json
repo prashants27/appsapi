@@ -27,6 +27,6 @@
 "ads_interstitial_back_count_show":100,
 "ads_interstitial_back_count":1000,
 "ads_native_color":"Yes",
-"rate_dialog":true,
+"rate_dialog":false,
 "all_ads_off": true
 }
