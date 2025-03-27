@@ -16,7 +16,6 @@
 "ads_native_preload":"Yes",
 "ads_native_view_id":2,
 "qureka_onoff":true,
-"qureka_inter_off":true,
 "reward_onoff":true,
 "ads_loader_onoff":true,
 "ads_splash":"AppOpen",
